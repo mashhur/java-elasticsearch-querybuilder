@@ -1,4 +1,4 @@
-package com.elastic.query.builder.esquerybuilder;
+package com.elastic.query.builder;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

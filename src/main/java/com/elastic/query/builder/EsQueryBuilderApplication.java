@@ -1,4 +1,4 @@
-package com.elastic.query.builder.esquerybuilder;
+package com.elastic.query.builder;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
