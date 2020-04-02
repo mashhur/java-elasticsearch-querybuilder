@@ -1,7 +1,6 @@
 package com.elastic.query.builder.service;
 
 import com.elastic.query.builder.common.Constants;
-import com.elastic.query.builder.engine.model.EsBoolType;
 import com.elastic.query.builder.engine.model.EsQuery;
 import com.elastic.query.builder.engine.model.EsQueryType;
 import com.elastic.query.builder.entity.EsItem;
@@ -16,9 +15,7 @@ import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 @Service
 public class SearchService {
